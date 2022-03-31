@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/erick-rauda/static/css/main.01a27ffa.css",
+    "main.js": "/erick-rauda/static/js/main.eec1456b.js",
+    "static/media/bootstrap-icons.woff?": "/erick-rauda/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/erick-rauda/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/low-poly-grid-haikei.svg": "/erick-rauda/static/media/low-poly-grid-haikei.72f14016c61a4ef1e19d.svg",
+    "index.html": "/erick-rauda/index.html",
+    "main.01a27ffa.css.map": "/erick-rauda/static/css/main.01a27ffa.css.map",
+    "main.eec1456b.js.map": "/erick-rauda/static/js/main.eec1456b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a27ffa.css",
+    "static/js/main.eec1456b.js"
+  ]
+}
